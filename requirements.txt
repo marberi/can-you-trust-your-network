@@ -1,0 +1,11 @@
+huggingface_hub
+matplotlib
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+torch
+umap-learn
+zarr
+zuko
