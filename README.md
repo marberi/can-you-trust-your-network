@@ -1,6 +1,6 @@
 # Redshift Prediction from DESI Spectra
 
-Lecture materials demonstrating deep learning approaches to estimate galaxy redshift from DESI DR1 spectra.
+Lecture materials for **MasterCosmos BCN**, demonstrating deep learning approaches to estimate galaxy redshift from DESI DR1 spectra.
 
 ## Overview
 
