@@ -13,7 +13,10 @@ Additionally, `distribution_shift.py` demonstrates how models can fail when test
 
 ## Data
 
-The code downloads 100,000 DESI DR1 spectra (~5 GB) from Hugging Face:
+The code automatically downloads a random sample of 100,000 normalized galaxy spectra from DESI DR1 (~5 GB) from Hugging Face:
+
+**Dataset:** [marberi/desi-dr1-spectra-100k](https://huggingface.co/datasets/marberi/desi-dr1-spectra-100k)
+
 - `catalog.parquet` - Metadata including pipeline redshifts
 - `spectra.zarr` - Normalized flux arrays (7781 wavelength bins)
 
